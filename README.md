@@ -15,7 +15,7 @@
 
 👯‍♀️ I'm looking to collaborate on Projects and ideas that can give me opportunity to Discover more in Web dev.
 ## 🛠 Skills
-Javascript, HTML, CSS, 
+Javascript, HTML, CSS, Golang,
 C, C++, Basic Python, PHP.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Naman-sharma00100)
