@@ -20,5 +20,12 @@ C, C++, Basic Python, PHP.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Naman-sharma00100)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naman-sharma00100&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+---
+
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+
+---
+
 
