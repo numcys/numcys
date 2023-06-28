@@ -6,7 +6,7 @@
 I am Naman Sharma, people call me Numcii, currently in my junior year of College. I enjoy Music and exploring new technologies. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-sharma-00100/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](discordapp.com/users/numcys)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](https://www.discordapp.com/users/numcys)
 [![Gmail Badge](https://img.shields.io/badge/-Info.namansharma001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Info.namansharma001@gmail.com)](mailto:Info.namansharma001@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Naman_sharma001/)
 
