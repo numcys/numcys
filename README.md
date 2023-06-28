@@ -1,4 +1,4 @@
-<img src="https://github.com/Naman-sharma00100/Naman-sharma00100/blob/master/header.png" alt="Numcys GitHub README header image">
+<img src="https://github.com/Naman-sharma00100/Naman-sharma00100/blob/main/header.png" alt="Numcys GitHub README header image">
 
 
 # Hi, I'm Naman Sharma! 👋
