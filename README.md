@@ -62,8 +62,8 @@ I am Naman Sharma, people call me Numcii, currently in my junior year of College
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 ---
-![Github stats](https://github-readme-stats.vercel.app/api?username=Naman-sharma00100)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-sharma00100&hide=TeX&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=numcys)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=numcys&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Naman-sharma00100.Naman-sharma00100)
 ---
