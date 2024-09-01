@@ -14,7 +14,7 @@ I am Naman Sharma, people call me Numcys, currently in my junior year of College
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/Naman-sharma00100/numcys-portfolio">My Personal Website</a>.</li>
-<li>🧐 Learning about <strong>Kubernetes</strong>, <strong>Docker</strong>, with other DevOps tools, and also a bit of <strong>NextJs</strong>.</li>
+<li>🧐 Learning about <strong>Kubernetes</strong>, <strong>Docker</strong>, with other DevOps tools, and also a bit of <strong>Golang</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Naman-sharma00100">Github</a>.</li>
 <li>📝 I <del>regulary</del> write articles Here  
 
