@@ -3,7 +3,7 @@
 
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/Naman-sharma00100/Naman-sharma00100/main/wave.gif" width="30">
 
-I am Naman Sharma, people call me Numcys. I enjoy Music and exploring new technologies. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Naman Sharma, people call me Numcys. I work at apple and I have worked for convox. I enjoy Music and exploring new technologies. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-sharma-00100/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](https://www.discordapp.com/users/numcys)
