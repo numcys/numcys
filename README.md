@@ -20,7 +20,7 @@ I am Naman Sharma, people call me Numcys, currently in my junior year of College
 
 [![HashNode](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://numcys.hashnode.dev/)
 </li>
-<li>💬 Ping me about <strong>Go, Node, Backend Frameworks, DevOps, and cloud stuff</strong>.</li>
+<li>💬 Ping me about <strong>Go, Backend Frameworks, DevOps, and cloud stuff</strong>.</li>
 <li>📙 Check out my <a href="https://drive.google.com/file/d/1iU43Jmr9M5_gqQVPanAUiqt1TKHHOm7K/view?usp=sharing">resume</a>.</li>
 <li>🎉 Fun Fact: My friends call me <i>Numcii</i>..!! and its so close to my actual most used username <i>Numcy</i> on most websites.</li> I think this definitely grew on me.
 </ul>
