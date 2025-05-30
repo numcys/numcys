@@ -1,64 +1,71 @@
-<img src="https://github.com/Naman-sharma00100/Naman-sharma00100/blob/main/header.png" alt="Numcys GitHub README header image">
 
-
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/Naman-sharma00100/Naman-sharma00100/main/wave.gif" width="30">
-
-I am Naman Sharma, people call me Numcys. I work at apple and I have worked for convox. I enjoy Music and exploring new technologies. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-sharma-00100/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](https://www.discordapp.com/users/numcys)
-[![Gmail Badge](https://img.shields.io/badge/-Info.namansharma001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Info.namansharma001@gmail.com)](mailto:Info.namansharma001@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Naman_sharma001/)
-
-
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
-<li>🔭 I’m currently working on <a href="https://github.com/Naman-sharma00100/numcys-portfolio">My Personal Website</a>.</li>
-<li>🧐 Learning about <strong>Kubernetes</strong>, <strong>Docker</strong>, with other DevOps tools, and also a bit of <strong>Golang</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Naman-sharma00100">Github</a>.</li>
-<li>📝 I <del>regulary</del> write articles Here  
-
-[![HashNode](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://numcys.hashnode.dev/)
-</li>
-<li>💬 Ping me about <strong>Go, Backend Frameworks, DevOps, and cloud stuff</strong>.</li>
-<li>📙 Check out my <a href="https://drive.google.com/file/d/1iU43Jmr9M5_gqQVPanAUiqt1TKHHOm7K/view?usp=sharing">resume</a>.</li>
-<li>🎉 Fun Fact: My friends call me <i>Numcii</i>..!! and its so close to my actual most used username <i>Numcy</i> on most websites.</li> I think this definitely grew on me.
-</ul>
-
-👯‍♀️ I'm looking to collaborate on Projects and ideas that can give me opportunity to Discover more Technologies.
-
-
-## ⚡ Technologies 
-
-
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+<h1 align="center">Hey, I'm Naman Sharma — aka Numcys 👋</h1>
+<p align="center">
+  I build APIs like LEGO blocks, automate infra so humans don’t have to, and ship side-projects to stay sane.
+</p>
+<p align="center">Backend Engineer · DevOps Explorer · Side-Project Addict · Ex-Apple & Convox</p>
 
 ---
-![Github stats](https://github-readme-stats.vercel.app/api?username=numcys)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=numcys&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Naman-sharma00100.Naman-sharma00100)
+### 🚀 What Drives Me
+
+- 🧠 Thinking in systems, not snippets
+- 🛠 Building tools that enable other builders
+- 🌍 Interested in infrastructure, developer experience, and products with exponential upside
+- 🎯 Recently: Couple-focused quest app · K8s + Terraform automation · Cloud-native infra
+
 ---
 
+### 🧰 My Stack (Visual)
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,docker,kubernetes,aws,gcp,terraform,nodejs,git,linux,mysql,mongodb" />
+</p>
+
+---
+
+### 🔥 Projects I Like to Talk About
+
+💡 **Convox CLI/Gateway**  
+> Golang CLI + AWS/GCP automation → Made infrastructure provisioning easier for devs  
+[🔗 GitHub](https://github.com/convox/convox)
+
+💘 **Couples Quest Web App** *(WIP)*  
+> Habit-forming system for two people. Think “Duolingo + quests” for relationships.  
+Tech: Go, Next.js, WebSockets
+
+🔁 **K8s Node Reboot Automation**  
+> Using Terraform + launch templates to tune `kubelet`, self-heal EKS nodes.  
+
+---
+
+### 📈 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=numcys&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=numcys&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-sharma-00100/)
+[![Email](https://img.shields.io/badge/-info.namansharma001@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:info.namansharma001@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Naman_sharma001/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://www.discordapp.com/users/numcys)
+
+---
+
+### 📄 Resume
+
+Want to collaborate or just chat cool infra ideas?  
+👉 [Here's my resume](https://drive.google.com/file/d/1iU43Jmr9M5_gqQVPanAUiqt1TKHHOm7K/view?usp=sharing)
+
+---
+
+### ✨ Fun Facts
+
+- I go by **Numcii** online — it grew on me like a namespace I never escaped
+- I treat infra bugs like boss fights 👾
+- I use side-projects to learn faster and stay sane
