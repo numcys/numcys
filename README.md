@@ -1,18 +1,25 @@
 
 <h1 align="center">Hey, I'm Naman Sharma — aka Numcys 👋</h1>
 <p align="center">
-  I build APIs like LEGO blocks, automate infra so humans don’t have to, and ship side-projects to stay sane.
+  <b>Bridging the gap between AI capabilities and enterprise reliability.</b>
 </p>
-<p align="center">Backend Engineer · DevOps Explorer · Side-Project Addict · Ex-Apple & Convox</p>
+<p align="center">Site Reliability Engineer · AI Infrastructure Builder · Open-Source Contributor · Ex-Apple & Convox</p>
 
 ---
 
-### 🚀 What Drives Me
+### 🚀 Operating Philosophy
 
-- 🧠 Thinking in systems, not snippets
-- 🛠 Building tools that enable other builders
-- 🌍 Interested in infrastructure, developer experience, and products with exponential upside
-- 🎯 Recently: Couple-focused quest app · K8s + Terraform automation · Cloud-native infra
+I don't just hack together API wrappers; I build the infrastructure that makes those systems enterprise-ready. Coming from a heavy DevOps and Site Reliability Engineering background, I bring hardcore engineering rigor to the AI wild west. I build systems that scale, secure agentic workflows, and keep production environments highly available.
+
+---
+
+### 🏗️ What I'm Building Right Now
+
+**[SudoMode](https://github.com/numcys/sudomode)**: Open-Source AI Governance Gateway  
+> Secures, monitors, and manages agentic workflows in production to stop API bleeding and prevent prompt-injection.
+
+**The ROI Engine** *(In Development)*: Agentic ROI & Optimization Engine  
+> An enterprise-grade framework to solve the human-in-the-loop break-even problem.
 
 ---
 
@@ -30,12 +37,14 @@
 > Golang CLI + AWS/GCP automation → Made infrastructure provisioning easier for devs  
 [🔗 GitHub](https://github.com/convox/convox)
 
+🔁 **K8s Node Reboot Automation**  
+> Using Terraform + launch templates to tune `kubelet`, self-heal EKS nodes.  
+
 💘 **Couples Quest Web App** *(WIP)*  
 > Habit-forming system for two people. Think “Duolingo + quests” for relationships.  
 Tech: Go, Next.js, WebSockets
 
-🔁 **K8s Node Reboot Automation**  
-> Using Terraform + launch templates to tune `kubelet`, self-heal EKS nodes.  
+*(Note: If you want to talk about game-server architecture or optimizing mods, hit me up. I treat complex infra bugs like boss fights.)*
 
 ---
 
@@ -50,7 +59,7 @@ Tech: Go, Next.js, WebSockets
 
 ### 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-sharma-00100/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/numcys/)
 [![Email](https://img.shields.io/badge/-info.namansharma001@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:info.namansharma001@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Naman_sharma001/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://www.discordapp.com/users/numcys)
@@ -60,7 +69,7 @@ Tech: Go, Next.js, WebSockets
 ### 📄 Resume
 
 Want to collaborate or just chat cool infra ideas?  
-👉 [Here's my resume](https://drive.google.com/file/d/1iU43Jmr9M5_gqQVPanAUiqt1TKHHOm7K/view?usp=sharing)
+👉 [Here's my resume](https://drive.google.com/file/d/1Pyyp_Lzvy2TxGtGRl5G-i2SxPWuTvL_X/view?usp=sharing)
 
 ---
 
